@@ -1,0 +1,13 @@
+{
+  "name": "program4",
+  "version": "1.0.0",
+  "description": "A program to count how many numbers in the input list are divisible by each number from 1 to 9.",
+  "type": "module",
+  "main": "program4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
